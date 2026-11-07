@@ -1,0 +1,13 @@
+# PostgreSQL data (Docker volume)
+pgdata/
+
+# Логи и временные файлы
+*.log
+.env
+
+# IDE
+.idea/
+.vscode/
+
+# Дампы БД
+*.dump
